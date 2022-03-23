@@ -1,7 +1,7 @@
 ### Olá, eu sou o Pedro Henrique👋
 
 - 👔 Trabalho com Front-End
-- 🌱 Estou Estudando JAVASCRIPT, NODE and SQL
+- 🌱 Estou Estudando JAVASCRIPT, NODE, PHP and SQL
 - 🤔 Estou em busca de uma oportunidade em Back-End
 - ⚡ Fato divertido: Gosto de Astronomia e bushcraft
 
