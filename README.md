@@ -3,7 +3,6 @@
 - 👔 Back-End
 - 🌱 Estou Estudando JAVASCRIPT, PHP, and SQL
 - 🤔 Estou em busca de uma oportunidade em Back-End
-- ⚡ Fato divertido: Gosto de Astronomia e bushcraft
 
 <div align="center">
   <a href="https://github.com/PedroHenrique99">
